@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+![](maker saga banner.png)
+# Maker Saga DIY Projects & Tutorials
 
-You can use the [editor on GitHub](https://github.com/donovanmagryta/makersaga/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Makeshift Wave Powered Cooling Mat
+![](thumbnail hydrothermal.jpg)
+[Tutorial](http://www.instructables.com/id/Makeshift-Wave-Powered-Cooling-Mat/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Broken Drone Hardware Hack
+![](thumbnail broken drone.jpg)
+[Tutorial](https://www.instructables.com/id/Broken-Toy-Drone-Hardware-Hack/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Cheap Music Reactive Laser Light Show
+![](lightshow.png)
+[Tutorial](https://www.instructables.com/id/Cheap-Music-Reactive-Light-Show/)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Instructable Views Announcer Bot
+![](YT ViewBot.png)
+[Tutorial](http://www.instructables.com/id/Instructable-Hit-Announcer-Bot/)
+[Files](ViewBot.zip.zip)
 
-1. Numbered
-2. List
+## Versatile NearBot Platform
+![](YT NearBot.jpg)
+[Tutorial](http://www.instructables.com/id/Versatile-NearBot/)
+[Files](ProxAct.zip.zip)
 
-**Bold** and _Italic_ and `Code` text
+## Cheap WiFi Range Extender for IoT
+![](extender.png)
+[Tutorial](http://www.instructables.com/id/Cheap-WiFi-Range-Extender-for-IoT/)
+[Files](ESP8266Extend.zip.zip)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Snail Mail Notifier
+![](notifier.jpg)
+[Files](ESP8266Notifier.zip.zip)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/donovanmagryta/makersaga/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Glider Dropping Mechanism for Drones
+![](glidervid.mp4)
+[Tutorial](https://www.instructables.com/id/Launch-a-Glider-Via-Quadcopter)
+[Files](GliderTemplate.pdf)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Python Email Sender App
+![](gmail python.png)
+[Tutorial](http://www.instructables.com/id/Send-Email-Using-Python/)
+
+## Magical Monocle & Invisible Screen
+![](monocle.jpg)
+[Tutorial](http://www.instructables.com/id/Magical-Monocle-Invisible-Screen/)
+
+
+[Tip Jar](https://www.paypal.me/dmagryta124/2)
