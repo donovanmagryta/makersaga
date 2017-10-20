@@ -1,4 +1,4 @@
-![](makersagabanner.png)
+![](maker saga banner.png)
 # Maker Saga DIY Projects & Tutorials
 
 ## Makeshift Wave Powered Cooling Mat
